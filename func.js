@@ -8,3 +8,4 @@ function checkOddOrEven(num) {
 }
 
 module.exports = checkOddOrEven;
+// exports로 보내줘야 함
